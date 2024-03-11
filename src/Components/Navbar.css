@@ -1,0 +1,28 @@
+.navbar{
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+li:hover{
+    color: red;
+}
+
+ul.flex{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    text-decoration: none;
+}
