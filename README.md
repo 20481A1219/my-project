@@ -1,4 +1,4 @@
-# Simplified ERP System with React
+ # Simplified ERP System with React
 
 ## Description
 This project implements a user-friendly interface for a simplified Enterprise Resource Planning (ERP) system, enabling efficient management of core business operations. Built with React, it offers the following features:
@@ -46,7 +46,7 @@ http://localhost:3000
 ```
 
 ## Screenshots
-Below are screenshots showcasing different pages of the React ERP System:
+Below are screenshots showcasing different pages and features of the React ERP System:
 
 1. #### Dashboard
 
